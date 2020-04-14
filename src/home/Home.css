@@ -1,0 +1,23 @@
+.home ul {
+  padding: 0;
+  border: 1px solid rgb(211, 224, 211);
+  border-radius: .3rem;
+  margin-top: 2rem;
+}
+
+.home li {
+  list-style: none;
+  background: rgba(211, 224, 211, .3);
+  padding: .7rem;
+}
+
+.home li:nth-child(even) {
+  background: rgb(211, 224, 211);
+}
+
+.home .no-countdowns {
+  text-align: center;
+  font-style: italic;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+  }

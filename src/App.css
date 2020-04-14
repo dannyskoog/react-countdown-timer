@@ -1,0 +1,11 @@
+.app {
+  margin: 0 auto;
+  max-width: 1024px;
+}
+
+.app h1 {
+  color: rgba(0, 0, 0, .3);
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .3rem;
+}

@@ -1,0 +1,5 @@
+.countdown .remove {
+  color: red;
+  text-decoration: underline;
+  cursor: pointer;
+}
